@@ -1,10 +1,10 @@
 baseURL = "http://mlpy.info/" # The URL of your site.
-title = "Hugo Zzo Theme" # Title of your site
+title = "机器学习算法与Python实战" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
-defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
-defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
-hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
+#defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
+#defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
+#hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
 
 summaryLength = 70 # The length of a post description on a list page.
 buildFuture = true # if true, we can use future date for talks page

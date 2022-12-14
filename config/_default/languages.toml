@@ -6,8 +6,15 @@
   contentdir = "content/ko"
   
 [en]
-  title = "Zzossig's Blog"
+  title = "机器学习算法与Python实战"
   languageName = "English"
   weight = 2
   languagedir = "ltr"
-  contentdir = "content/en"
+  contentdir = "content"
+
+  [zh]
+  title = "机器学习算法与Python实战"
+  languageName = "Chinese"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content"
