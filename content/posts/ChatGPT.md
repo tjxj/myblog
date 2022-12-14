@@ -1,6 +1,6 @@
 ---
 title: "我“采访”了 ChatGPT"
-date: 2022-12-14
+date: "2022-12-14"
 description: All the list of my posts
 ---
 

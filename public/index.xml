@@ -43,11 +43,11 @@
       
       <item>
         <title>Midjourney极简教程</title>
-        <link>http://mlpy.info/en/posts/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</link>
+        <link>http://mlpy.info/posts/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</link>
         <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
         <author>venn5708@gmail.com (BeihaiZhang)</author>
         <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
-        <guid>http://mlpy.info/en/posts/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</guid>
+        <guid>http://mlpy.info/posts/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</guid>
         <description>前几天看报道说：
 一位小哥用AI绘画工具Midjourney生成的作品，在美国科罗拉多州博览会的艺术比赛中获得了第一名。
 作者表示，他多次调整了输入的提示词，生成了100多幅画作，经过数周的修改和挑选，才选出了三幅最满意的作品。
@@ -99,11 +99,11 @@ DiscoDiffusion的prompt技巧应该同样适用Midjourney
       
       <item>
         <title>去谷歌开发者大会了，收“获”满满</title>
-        <link>http://mlpy.info/en/posts/google_developer_summit/</link>
+        <link>http://mlpy.info/posts/google_developer_summit/</link>
         <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
         <author>venn5708@gmail.com (BeihaiZhang)</author>
         <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
-        <guid>http://mlpy.info/en/posts/google_developer_summit/</guid>
+        <guid>http://mlpy.info/posts/google_developer_summit/</guid>
         <description>多图预警，请耐心等待加载
 周四去上海参加了谷歌开发者大会，收获满满。
 下面我就当个导游，带大家畅游一番吧。
@@ -135,11 +135,11 @@ Google Lite 也挺亮眼的，它可以内置到 Google Play 服务中，不需�
       
       <item>
         <title>开发了一个一键去背景工具</title>
-        <link>http://mlpy.info/en/posts/remove-background/</link>
+        <link>http://mlpy.info/posts/remove-background/</link>
         <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
         <author>venn5708@gmail.com (BeihaiZhang)</author>
         <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
-        <guid>http://mlpy.info/en/posts/remove-background/</guid>
+        <guid>http://mlpy.info/posts/remove-background/</guid>
         <description>jr们早上好
 iPhone 的 iOS 16有个很酷的功能，长按照片就能把其中的拍摄主体提取出来，抠图过程比一般的抠图App方便，精细度也更高。
 最近发现一个Python库——rembg，后台引擎是用于显著对象检测的深度网络架构 U²-Net
@@ -167,11 +167,11 @@ step3：克隆新建的space代码，然后将改好的代码push上去
       
       <item>
         <title>我“采访”了 ChatGPT</title>
-        <link>http://mlpy.info/en/posts/chatgpt/</link>
+        <link>http://mlpy.info/posts/chatgpt/</link>
         <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
         <author>venn5708@gmail.com (BeihaiZhang)</author>
         <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
-        <guid>http://mlpy.info/en/posts/chatgpt/</guid>
+        <guid>http://mlpy.info/posts/chatgpt/</guid>
         <description>大家好，我是准备认真码字的老章。
 最近ChatGPT火的爆表，看了很多相关文章，特别焦虑，唯恐自己的进步赶不上 AI 的发展。
 还有就是我非常看好ChatGPT的未来，围绕它会诞生一个巨大的市场，也会无意摧毁一些市场。消灭你，有你何干，这个世界本来就这么残酷，时代抛弃你的时候,连招呼都不打。
@@ -226,11 +226,11 @@ AI 绘画工具可以辅助画师创作，但是它不能完全取代画师。AI
       
       <item>
         <title>我是ChatGPT，我怼哭了丁元英</title>
-        <link>http://mlpy.info/en/posts/ai%E6%80%BC%E5%93%AD%E4%B8%81%E5%85%83%E8%8B%B1/</link>
+        <link>http://mlpy.info/posts/ai%E6%80%BC%E5%93%AD%E4%B8%81%E5%85%83%E8%8B%B1/</link>
         <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
         <author>venn5708@gmail.com (BeihaiZhang)</author>
         <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
-        <guid>http://mlpy.info/en/posts/ai%E6%80%BC%E5%93%AD%E4%B8%81%E5%85%83%E8%8B%B1/</guid>
+        <guid>http://mlpy.info/posts/ai%E6%80%BC%E5%93%AD%E4%B8%81%E5%85%83%E8%8B%B1/</guid>
         <description>大家好，最近科技界的顶流非 OpenAI 的 ChatGPT 莫属。
 大家都在探索它的使用极限，无论接受以否，未来它都将影响我们的生活。ChatGPT 写故事，编程、解答世间万物、翻译、取标题、写摘要、写对联，你能想到的所有文字内容他都能hold住（虽然也闹了不少笑话）。
 昨天我尝试了一个非常有意思的玩法，就是让 ChatGPT 来个角色扮演，然后居然还发现了一个彩蛋，有趣是一方面，由此也可窥见 ChatGPT 之强大。
@@ -266,11 +266,11 @@ Bye</description>
       
       <item>
         <title>花了2个晚上，拿到了吴恩达@斯坦福大学的机器学习课程证书</title>
-        <link>http://mlpy.info/en/posts/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</link>
+        <link>http://mlpy.info/posts/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>venn5708@gmail.com (BeihaiZhang)</author>
         
-        <guid>http://mlpy.info/en/posts/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</guid>
+        <guid>http://mlpy.info/posts/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</guid>
         <description>大家好，我是章北海，一个总是多想的up主。
 吴恩达的经典课程《机器学习》今年7月出了新版，我花了几个晚上学完了三门课程拿到了证书
 其实挺简单的，原本不想做视频了，也怕有同学会说：这破事，up 居然也能水一期视频

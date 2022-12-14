@@ -1,6 +1,6 @@
 ---
 title: "我是ChatGPT，我怼哭了丁元英"
-date: 2022-12-14
+date: "2022-12-14"
 description: All the list of my posts
 ---
 
