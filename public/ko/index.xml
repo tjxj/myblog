@@ -6,17 +6,38 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on 机器学习算法与Python实战</title>
-    <link>http://mlpy.info/tags/</link>
-    <description>Recent content in Tags on 机器学习算法与Python实战</description>
+    <title>쪼식이 블로그</title>
+    <link>http://mlpy.info/ko/</link>
+    <description>Recent content on 쪼식이 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ko</language>
     <managingEditor>venn5708@gmail.com (BeihaiZhang)</managingEditor>
     <webMaster>venn5708@gmail.com (BeihaiZhang)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="http://mlpy.info/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://mlpy.info/ko/index.xml" rel="self" type="application/rss+xml" />
     
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
 
       
 
