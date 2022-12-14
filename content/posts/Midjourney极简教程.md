@@ -1,7 +1,6 @@
-
 ---
 title: "Midjourney极简教程"
-date: 2022-12-14
+date: "2022-12-14"
 description: All the list of my posts
 ---
 

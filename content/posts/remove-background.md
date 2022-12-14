@@ -1,7 +1,6 @@
-
 ---
 title: "开发了一个一键去背景工具"
-date: 2022-12-14
+date: "2022-12-14"
 description: All the list of my posts
 ---
 
