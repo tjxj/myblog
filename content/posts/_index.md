@@ -1,6 +1,6 @@
 ---
 title: "Post section"
-date: 2022-12-14
+date: now
 description: All the list of my posts
 ---
 
