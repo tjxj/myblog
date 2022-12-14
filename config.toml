@@ -1,4 +1,0 @@
-baseURL = 'http://mlpy.info/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "zzo"
