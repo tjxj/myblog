@@ -30,7 +30,7 @@
         <description>Sample images from Pixabay</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://mlpy.infoimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://mlpy.info/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -48,7 +48,7 @@
         <description>Sample images from Pixabay</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://mlpy.infoimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://mlpy.info/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

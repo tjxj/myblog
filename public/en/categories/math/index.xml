@@ -31,7 +31,7 @@
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://mlpy.infoimages/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://mlpy.info/images/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -70,7 +70,7 @@ Note: For inline math to render correctly, your content file extension must be .
 Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://mlpy.infoimages/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://mlpy.info/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
