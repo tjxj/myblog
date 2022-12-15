@@ -2,31 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mlpy.info/categories/</loc>
+    <loc>http://mlpy.info/showcase/hugo/hugo-theme-zzo/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/showcase/hugo/hugo-theme-zdoc/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://mlpy.info/ko/categories/"
+                href="http://mlpy.info/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mlpy.info/categories/"
+                href="http://mlpy.info/"
                 />
   </url><url>
-    <loc>http://mlpy.info/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/series/"
-                />
+    <loc>http://mlpy.info/archive/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/archive/google_developer_summit-2/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/archive/google_developer_summit/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/archive/remove-background/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/archive/chatgpt/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/archive/ai%E6%80%BC%E5%93%AD%E4%B8%81%E5%85%83%E8%8B%B1/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/publication/article/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/publication/book/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/publication/misc/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/publication/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/shortcode/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/shortcodes/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/tags/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -38,16 +73,175 @@
                 href="http://mlpy.info/tags/"
                 />
   </url><url>
-    <loc>http://mlpy.info/</loc>
+    <loc>http://mlpy.info/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/categories/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://mlpy.info/ko/"
+                href="http://mlpy.info/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mlpy.info/"
+                href="http://mlpy.info/categories/"
                 />
+  </url><url>
+    <loc>http://mlpy.info/tags/css/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/html/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/markdown/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/markdown-syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/series/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://mlpy.info/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://mlpy.info/series/"
+                />
+  </url><url>
+    <loc>http://mlpy.info/categories/syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/categories/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/series/themes-guide/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/privacy/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/rich-content/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/shortcodes/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/categories/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/syntax-highlight/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/math-typesetting/</loc>
+    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/amoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/bamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/emoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/emoji-support/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/gamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/namoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/categories/diagram/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-viz/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-wavedrom/</loc>
+    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-chartjs/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-js-sequence-diagrams/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/diagram/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-mermaid/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/categories/math/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-mathjax/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-katex/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/posts/test-flowchart/</loc>
+    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/gallery/cartoon/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/gallery/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/gallery/photo/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/presentation/dir/fourth/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/presentation/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/presentation/third/</loc>
+    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/presentation/second/</loc>
+    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/presentation/first/</loc>
+    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/publication/article/article_any_folder_name_1/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/index/</loc>
+  </url><url>
+    <loc>http://mlpy.info/archive/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</loc>
   </url>
 </urlset>
