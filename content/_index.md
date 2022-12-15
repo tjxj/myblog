@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - ML&Py
     subtitle:
-      - The world’s fastest framework for building websites
+      - 一站式搞定Python&机器学习入门、进阶、实战
     titleColor: 
     titleShadow: true
     titleFontSize: 44
