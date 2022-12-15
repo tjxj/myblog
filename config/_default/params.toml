@@ -61,9 +61,9 @@ typeIcon = "🎯"
 
 # whoami
 myname = "Changbeihai"
-email = "venn5708ossig@gmail.com"
-whoami = "Wechat Creator"
-bioImageUrl = ""
+email = "venn5708@gmail.com"
+# whoami = "Wechat Creator"
+bioImageUrl = "![david-hilbert-2](https://my-wechat.oss-cn-beijing.aliyuncs.com/david-hilbert-2.jpg)"
 useGravatar = false
 location = "SH, China"
 #organization = "Hugo"
@@ -161,7 +161,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "venn5708@email.com"
+  email = ""
   phone = ""
   facebook = ""
   twitter = "https://twitter.com/Changbeihai"
@@ -169,7 +169,7 @@ commento = false
   stack-overflow = ""
   instagram = ""
   google-plus = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/@Changbeihai8759"
   medium = ""
   tumblr = ""
   linkedin = ""
