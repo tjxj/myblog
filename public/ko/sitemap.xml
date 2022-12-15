@@ -2,84 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mlpy.info/ko/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/"
-                />
-  </url><url>
-    <loc>http://mlpy.info/ko/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/archive/"
-                />
-  </url><url>
-    <loc>http://mlpy.info/ko/about/</loc>
-    <lastmod>2019-10-09T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/about/"
-                />
-  </url><url>
-    <loc>http://mlpy.info/ko/gallery/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/gallery/"
-                />
-  </url><url>
-    <loc>http://mlpy.info/ko/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/gallery/photo/"
-                />
-  </url><url>
-    <loc>http://mlpy.info/ko/gallery/cartoon/</loc>
-    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/gallery/cartoon/"
-                />
-  </url><url>
     <loc>http://mlpy.info/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -92,28 +14,16 @@
                 href="http://mlpy.info/ko/categories/"
                 />
   </url><url>
-    <loc>http://mlpy.info/ko/tags/index/</loc>
+    <loc>http://mlpy.info/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mlpy.info/en/tags/index/"
+                href="http://mlpy.info/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://mlpy.info/ko/tags/index/"
-                />
-  </url><url>
-    <loc>http://mlpy.info/ko/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/posts/"
+                href="http://mlpy.info/ko/"
                 />
   </url><url>
     <loc>http://mlpy.info/ko/series/</loc>

@@ -1,5 +1,5 @@
 baseURL = "http://mlpy.info/"
-title = "Hugo Zzo Theme"
+title = "机器学习算法与Python实战"
 theme = "zzo"
 
 defaultContentLanguage = "en"

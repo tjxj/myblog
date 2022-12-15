@@ -53,16 +53,6 @@
   </url><url>
     <loc>http://mlpy.info/en/posts/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/posts/"
-                />
   </url><url>
     <loc>http://mlpy.info/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
@@ -213,42 +203,12 @@
   </url><url>
     <loc>http://mlpy.info/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/gallery/cartoon/"
-                />
   </url><url>
     <loc>http://mlpy.info/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/gallery/"
-                />
   </url><url>
     <loc>http://mlpy.info/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/gallery/photo/"
-                />
   </url><url>
     <loc>http://mlpy.info/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
@@ -267,29 +227,9 @@
   </url><url>
     <loc>http://mlpy.info/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/archive/"
-                />
   </url><url>
     <loc>http://mlpy.info/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/about/"
-                />
   </url><url>
     <loc>http://mlpy.info/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
@@ -301,16 +241,6 @@
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/en/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://mlpy.info/ko/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://mlpy.info/en/tags/index/"
-                />
   </url><url>
     <loc>http://mlpy.info/en/archive/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</loc>
   </url>
