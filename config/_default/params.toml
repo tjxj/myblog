@@ -1,6 +1,6 @@
 logoText = "ML&Py"
 logoType = "short" # long, short
-description = "一站式搞定 Python & 机器学习入门、进阶、实战"
+description = "Python & 机器学习入门、进阶、实战"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/

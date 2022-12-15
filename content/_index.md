@@ -5,7 +5,7 @@ header:
       - typeString: ML&Py
       - pauseFor: 2500
       - deleteAll: true
-      - typeString: 一站式搞定 Python & 机器学习入门、进阶、实战
+      - typeString: Python & 机器学习入门、进阶、实战
       - pauseFor: 2500
       - deleteChars: 7
       - typeString: <strong>altered!</strong>
