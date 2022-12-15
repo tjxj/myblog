@@ -2,9 +2,9 @@ baseURL = "http://mlpy.info/"
 title = "机器学习算法与Python实战"
 theme = "zzo"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
-hasCJKLanguage = true
+#defaultContentLanguage = "en"
+#defaultContentLanguageInSubdir = true
+#hasCJKLanguage = true
 
 summaryLength = 70
 buildFuture = true
