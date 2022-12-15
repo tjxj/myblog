@@ -11,8 +11,8 @@
     <description>Recent content in Galleries on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>venn5708ossig@gmail.com (Changbeihai)</managingEditor>
+    <webMaster>venn5708ossig@gmail.com (Changbeihai)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Cartoon</title>
         <link>http://mlpy.info/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>venn5708ossig@gmail.com (Changbeihai)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://mlpy.info/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Changbeihai</dc:creator>
         <media:content url="http://mlpy.info/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -42,12 +42,12 @@
         <title>Photo</title>
         <link>http://mlpy.info/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>venn5708ossig@gmail.com (Changbeihai)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://mlpy.info/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Changbeihai</dc:creator>
         <media:content url="http://mlpy.info/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

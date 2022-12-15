@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Changbeihai"
+email = "venn5708ossig@gmail.com"
+whoami = "Wechat Creator"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
+location = "SH, China"
 organization = "Hugo"
-link = "https://zzossig.io/ko"
+link = "https://twitter.com/Changbeihai"
 
 # sidebar
 enableBio = true
