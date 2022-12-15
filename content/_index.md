@@ -27,7 +27,7 @@ header:
     title:
       - ML&Py
     subtitle:
-      - 一站式搞定Python&机器学习入门、进阶、实战
+      - 一站式搞定 Python & 机器学习入门、进阶、实战
     titleColor: 
     titleShadow: true
     titleFontSize: 44
