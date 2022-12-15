@@ -2,10 +2,10 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
+      - typeString: ML&Py
       - pauseFor: 2500
       - deleteAll: true
-      - typeString: Strings can be removed
+      - typeString: 一站式搞定 Python & 机器学习入门、进阶、实战
       - pauseFor: 2500
       - deleteChars: 7
       - typeString: <strong>altered!</strong>
