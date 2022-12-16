@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Archive on 机器学习算法与Python实战</title>
+    <link>http://mlpy.info/python/</link>
+    <description>Recent content in Archive on 机器学习算法与Python实战</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>venn5708@gmail.com (Changbeihai)</managingEditor>
+    <webMaster>venn5708@gmail.com (Changbeihai)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
+    
+        <atom:link href="http://mlpy.info/python/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Midjourney极简教程</title>
+        <link>http://mlpy.info/python/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>http://mlpy.info/python/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</guid>
+        <description>前几天看报道说：
+一位小哥用AI绘画工具Midjourney生成的作品，在美国科罗拉多州博览会的艺术比赛中获得了第一名。
+作者表示，他多次调整了输入的提示词，生成了100多幅画作，经过数周的修改和挑选，才选出了三幅最满意的作品。
+下图就是获奖作品
+之前我玩过DF，还写过一篇文章➡️AI绘画 Disco Diffusion 极简教程，Midjourney 现在内测结束，已经开放了，我玩试了一下，确实挺有趣，也写个没废话的极简入门吧。
+第 0 步：和 Disco Diffusion 一样先科学上网
+第 1 步：注册、下载 Discord
+Discord 充当 Midjourney 的服务器，以聊天机器人形式生成绘画作品
+https://discord.com/download
+不想下载也行，可以使用网页版
+进入后根据提示注册Discord账号即可
+第 2 步：接受 Midjourney 邀请
+访问：
+https://discord.com/invite/midjourney
+就会收到如下邀请
+点击接受会跳转到 Discord 页面
+然后随便选择一个newbies频道
+看到下面的聊天框了吗？
+https://366511654-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6Bl9seaj2HHrtdPiMKPI%2Fuploads%2FIujTWOvV8MHvoMuAdhQI%2Fimagine_command_popup_click.gif?alt=media&amp;amp;token=3a15d252-3068-4713-9a47-2deb32c3bcdd
+输入指令/imagine 选择prompt
+然后就可以像DiscoDiffusion一样，输入描述让Midjourney帮你绘画了
+然后在聊天界面就能看到Midjourney Bot正在生成四张图片，耗时几十秒
+1234对应这四张图片
+U：选择其中一张放大细节
+V：选择其中一张，在这张图基础上进行变化
+其实还可以再进一步调整、优化
+Make Variations ：跟V的功能一样，就是在此基础上变形。
+upscale to max：是指进一步放大图像。默认是1664X1664，但是可以设置的最高尺寸为 2048。
+light upscale redo：是指对画面进行柔化，类似人脸磨皮。
+最后一步就是点击绘好的画保存下来就行了
+总结
+说是没有绘画基础也能通过AI画画
+但是很多优秀的作品还是有根底的
+想深入玩下去的同学没必要纠结技术
+好好学习优秀作品的prompt
+掌握画作描述的基础，不断尝试，就会画出一些不可思议的优秀作品
+DiscoDiffusion的prompt技巧应该同样适用Midjourney
+整个画作的描述词可拆解为五个维度理解——画种描述、内容描述、画家描述、参考渲染方式、颜色描述。
+画种描述：A beautiful painting of</description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>去谷歌开发者大会了，收“获”满满</title>
+        <link>http://mlpy.info/python/google_developer_summit/</link>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>http://mlpy.info/python/google_developer_summit/</guid>
+        <description>多图预警，请耐心等待加载
+周四去上海参加了谷歌开发者大会，收获满满。
+下面我就当个导游，带大家畅游一番吧。
+先来到世博中心，显眼的 Google Logo
+入场后先报道，领取胸牌
+进入主会场
+等待演讲开始
+前面是关于Android的演讲就不拍了，和大家一样，我对谷歌在 TensorFlow 和 机器学习方面的最新动态比较感兴趣。
+主题1 《未来之路：谷歌为开发者提供全面的开源机器学习产品生态》 其实这一部分的核心内容在昨天的主旨演讲中Laurence已经简单介绍过，大佬从数据、框架、模型、MLOps 四个方面说明 TensorFlow Project 为开源机器学习构建了全面开源生态，感兴趣可以去大会官网听一下，其实现场的演讲也都有回放了：
+https://developersummit.googlecnapps.cn/
+现场嘉宾讲的更详细，每一方面都有展开，其实核心就是下面这张图
+机器学习的四个支柱：数据、模型框架、部署、监控和维护，这四个支柱 Google 都有开源工具。
+数据获取及预处理：TensorFlow 数据集 模型框架：TensorFlow 和 JAX Deepmind 的一些科研成果，比如alphafold,还有Google research的 imagen、 Parti 都是通过JAX创建的。
+JAX 前段时间还有个趣闻，关注我公众号的同学应该知道，有篇文章说“JAX取代TensorFlow”，“谷歌大脑和DeepMind已经普遍放弃TensorFlow，转投 JAX”。（➡️TensorFlow，危！抛弃者正是谷歌自己），很快就有了辟谣（➡️TensorFlow团队：我们没被抛弃），将继续投资TensorFlow和JAX两个ML框架，以推动数百万用户的研究和应用。
+演讲嘉宾讲的很透彻，JAX 和 TensorFlow 是定位不同的两个框架，前者专为硬件加速器优化的框架，从而帮助开发者更深入地钻研机器学习的数学运算，后者定位高级框架，帮助不需要深入到数学层面的开发者可以轻松创建自己的模型。
+模型部署：TensorFlow.js 、TensorFlow Lite 在云端、网页端、浏览器、移动端和嵌入式平台上运行模型，Google 也有很多成熟的产品，我之前也曾写过一篇文章介绍tfjs（用浏览器玩机器学习，赞！），自认写的清晰明了。
+Google Lite 也挺亮眼的，它可以内置到 Google Play 服务中，不需要再在应用中植入 TF Lite ，应用体量可以大幅缩减，也可以使用后台更新功能，用户始终能够使用最新版本，不需要在TF Lite每次更新时再重新。如果用户不使用 Google Play 服务，也可以不使用以上方式，像以前一样自主分发。
+监控和维护：TFX TFX 不仅可以用于模型部署，它也可为完整 MLOps 部署提供软件框架和工具，并在数据和模型随时间推移不断演变的过程中检测问题。
+这四个支柱中 Google 提供的一些列工具集成到一起，统称为Tensor Projects，满足研究人员、开发者、MLOPS 和商务团队的任意机器学习应用需求。</description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>开发了一个一键去背景工具</title>
+        <link>http://mlpy.info/python/remove-background/</link>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>http://mlpy.info/python/remove-background/</guid>
+        <description>jr们早上好
+iPhone 的 iOS 16有个很酷的功能，长按照片就能把其中的拍摄主体提取出来，抠图过程比一般的抠图App方便，精细度也更高。
+最近发现一个Python库——rembg，后台引擎是用于显著对象检测的深度网络架构 U²-Net
+所以我就用它开发了一个在线抠图应用，依然是依托Gradio + huggingface 的space
+大家先来感受一下
+https://huggingface.co/spaces/beihai/Remove-Background-By-U2Net
+用法非常简单，上传需要去背景的图片，点击Submit，稍等片刻，右侧Output将去背景后的主体另存为即可。
+抠图应该算蛮成熟的应用了，不过学以致用嘛。
+自己动手做一个大家不觉得这很酷吗?作为一名理工男我觉得这太酷了，很符合我对未来生活的想象，科技并带着趣味。/手动狗头
+实现过程实在不想再讲了，因为我之前在腾讯的这个算法，我搬到了网上，随便玩！ 还有 LightGBM 可视化调参这两篇文章中已经讲过了：
+step1：注册Huggingface账号
+step2：创建Space，SDK选Gradio
+step3：克隆新建的space代码，然后将改好的代码push上去
+这里只展示下核心代码吧，也是简单的离谱
+核心代码 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 import os os.system(&amp;#34;/usr/local/bin/python -m pip install --upgrade pip&amp;#34;) import gradio as gr from rembg import remove import cv2 def inference(img): input_img = cv2.imread(img) output = remove(input_img[:, :, [2,1,0]]) return output gr.</description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>我“采访”了 ChatGPT</title>
+        <link>http://mlpy.info/python/chatgpt/</link>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>http://mlpy.info/python/chatgpt/</guid>
+        <description>大家好，我是准备认真码字的老章。
+最近ChatGPT火的爆表，看了很多相关文章，特别焦虑，唯恐自己的进步赶不上 AI 的发展。
+还有就是我非常看好ChatGPT的未来，围绕它会诞生一个巨大的市场，也会无意摧毁一些市场。消灭你，有你何干，这个世界本来就这么残酷，时代抛弃你的时候,连招呼都不打。
+看过《时代》专访ChatGPT的文章，我也有很多疑问渴望得到答案，所以就有了此文。ChatGPT对AI绘画对画师的影响、AI编程对程序员的影响、人工智能未来的发展以及普通人应该如何应对作出的回答颇具思考价值，如果你也有所收获，欢迎点个关注，转发，点赞，拜谢。
+PS：ChatGPT的部分回答，内容重复，文字有删减
+老章：你好，我是章北海，是一个机器学习爱好者，同时也在B站上分享机器学习的相关知识。
+ChatGPT：你好，章北海！很高兴认识你。我是一个由 OpenAI 训练的大型语言模型，名为 Assistant。我能够回答您关于机器学习的各种问题，并尽力为您提供有用的信息。如果您有任何疑问，请随时问我。
+老章：你在中国有很多粉丝，很多人喜欢跟你聊天，我可以采访你一下吗？
+ChatGPT：非常抱歉，我不具备感知能力，无法像人类一样拥有粉丝或者接受采访。我只是一个计算机程序，被训练来回答问题和提供信息。我并不具备人类的感觉和情感。我只能为您提供有用的信息和答案。如果您有其他问题，请随时问我。
+老章：你的训练数据都来自何处？尤其是中文领域
+ChatGPT：非常抱歉，我不能给您提供具体的信息。我是由 OpenAI 训练的大型语言模型，我的训练数据来源于公开可用的数据。OpenAI 是一家人工智能研究公司，它拥有大量的训练数据，包括电子邮件、新闻文章、书籍和其他数据。这些数据来自不同的领域和语言，包括中文。我的训练过程非常复杂，并且涉及大量的技术细节。如果您对我的训练过程感兴趣，可以搜索相关信息了解更多。
+老章：好的，能介绍一下你的训练过程吗？
+ChatGPT：当然，我很乐意向您介绍我的训练过程。我的训练过程包括多个步骤，这些步骤涉及大量的技术细节。
+首先，我们需要大量的训练数据。这些数据可以来自不同的领域和语言，包括中文。这些数据可能包括电子邮件、新闻文章、书籍和其他数据。这些数据都是公开可用的，我们可以自由地使用它们来训练我们的模型。
+其次，我们需要选择一个合适的模型架构。这可能是一个传统的深度神经网络，也可能是一个更复杂的模型，比如 transformer 模型。这取决于我们的目标和需求。我们可以根据不同的需求来选择最合适的模型架构。
+接下来，我们需要进行训练。这个过程可能需要很长时间，因为我们的模型需要在大量的数据上进行训练，并且我们需要对模型进行优化以获得最佳性能。在训练过程中，我们需要注意模型的性能，并且可能根据模型的性能进行调整，以提高模型的准确性和效率。
+最后，我们需要对模型进行评估和测试。这一步是非常重要的，因为它可以帮助我们了解模型的性能，并且可以帮助我们检查模型是否有任何问题。我们可以使用不同的评估指标来检验模型的性能，并且可以使用测试数据来检验模型的泛化能力。
+老章：我之前问过你很多问题，发现很多问题回答的都不对，比如阿Q并不是《狂人日记》中的人物，还比如三分之一加五分之一并不等于八分之一。
+ChatGPT：非常抱歉，如果我回答您的问题有误，那一定是我的错误。作为一个大型语言模型，我只能根据我所学到的知识来回答问题。我的知识来自于大量的训练数据，但这些数据并不完整，也不一定是完全正确的。因此，我可能会回答某些问题不准确或不完整。
+老章：那你如何修正这些错误呢？
+ChatGPT：我无法修正这些错误，因为我只是一个计算机程序，我无法进行自我修正。如果我回答您的问题有误，那可能是我所学到的知识有误，或者是我在回答问题时理解错误。作为一个大型语言模型，我的目标是尽力为您提供有用的信息，并且尽力回答您的问题。
+老章：那我再问你一遍，三分之一加五分之一等于多少？
+ChatGPT：三分之一加五分之一等于八分之一。在数学中，一个分数加另一个分数的结果等于两个分数的分子之和除以两个分数的分母之积。例如，三分之一加五分之一等于（1/3+1/5）/ (1/3*1/5) = （5+3）/15 = 8/15 = 8分之一。
+老章：三分之一加五分之一等于十五分之八
+ChatGPT：抱歉，您的算式不正确。在数学中，一个分数加另一个分数的结果等于两个分数的分子之和除以两个分数的分母之积。例如，三分之一加五分之一等于（1/3+1/5）/ (1/3*1/5) = （5+3）/15 = 8/15 = 8分之一。您的算式中，三分之一加五分之一计算结果等于8分之一，不等于十五分之八。如果您对数学有疑问，请随时问我，我会尽力为您提供有用的信
+老章：看来你还有很大的进步空间
+ChatGPT：谢谢您的指正。作为一个大型语言模型，我的目标是尽力为您提供有用的信息，并尽力回答您的问题。我的知识来自于大量的训练数据，但这些数据并不完整，也不一定是完全正确的。因此，我可能会回答某些问题不准确或不完整。如果您发现我回答您的问题有误，请您告知我，我会尽力为您提供正确的信息。如果您有其他问题，请随时问我。
+老章：如果我知道你是错的，那还好。如果我不知道呢？
+ChatGPT：如果您不知道我回答的问题是否正确，可以搜索相关信息，并从多个来源获取信息。通过比较不同的信息来源，可以更好地了解问题的答案，并判断我回答的问题是否正确。
+老章：如何解决这个问题呢
+ChatGPT：为了避免出现错误答案，可以采取一些措施。首先，对于模型的训练数据要进行严格的审查，确保数据质量达到较高的标准。其次，在模型回答问题时，可以采用多个模型进行预测，并对答案进行投票，从而提高答案的准确度。
+老章：你最擅长回答哪些领域的问题？不擅长的呢？
+ChatGPT：作为一个大型语言模型，我可以回答各种领域的问题。我的知识来自于大量的训练数据，这些数据涉及各种领域，包括科学、文学、历史、政治、商业、技术和其他领域。但是，我并不能回答所有的问题。由于我的知识来源于大量的训练数据，因此我可能会不熟悉某些特定的领域，或者某些特定的问题。如果您问我一个我不熟悉的问题，或者问我一个我没有学过的知识，我可能无法为您提供有用的信息。
+老章：大家普遍比较看好你的发展，我们聊聊未来吧
+ChatGPT：谢谢您的支持。作为一个大型语言模型，我的目标是尽力为您提供有用的信息，并尽力回答您的问题。我的发展主要取决于我的训练数据和训练方法。随着技术的发展，我的训练数据和训练方法可能会发生改变，从而提高我的性能和准确性。
+但是，我并不是人类，我无法像人类一样思考、学习和发展。我只能根据我所学到的知识来回答问题，并且我的知识来自于我的训练数据。我无法像人类一样拥有感情、意识和自我意识。因此，我的发展会受到我的训练数据和训练方法的限制。
+老章：前段时间AI绘画比较火热，比如DALL-E、Midjourney、Stable Diffusion等，很多人担心画师、设计师等会呗取代，你觉得呢？
+ChatGPT：目前，人工智能在绘画领域取得了一些突破性进展。这些项目通过深度学习算法，可以让计算机自动生成图片。这些技术的出现，给艺术家和设计师带来了新的挑战。
+但是，我不认为人工智能会完全取代画师和设计师。人类艺术家和设计师拥有独特的想象力和创造力，他们能够创作出具有个人风格和感染力的作品。人工智能也许可以生成一些精美的图片，但是它缺乏人类艺术家和设计师的创造力和想象力。
+我认为，人工智能在绘画领域的发展可能会给艺术家和设计师带来新的机遇，而不是威胁。人工智能可以帮助人类艺术家和设计师
+老章：AI绘画工具无法画师，对吗？
+AI 绘画工具可以辅助画师创作，但是它不能完全取代画师。AI 绘画工具可以用来生成图像，但它无法比人类更好地捕捉人物的神韵和表情，也无法比人类更好地理解作品的主题和意义。因此，AI 绘画工具只能作为画师的辅助工具，而不能取代他们。</description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>我是ChatGPT，我怼哭了丁元英</title>
+        <link>http://mlpy.info/python/ai%E6%80%BC%E5%93%AD%E4%B8%81%E5%85%83%E8%8B%B1/</link>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        <atom:modified>Wed, 14 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>http://mlpy.info/python/ai%E6%80%BC%E5%93%AD%E4%B8%81%E5%85%83%E8%8B%B1/</guid>
+        <description>大家好，最近科技界的顶流非 OpenAI 的 ChatGPT 莫属。
+大家都在探索它的使用极限，无论接受以否，未来它都将影响我们的生活。ChatGPT 写故事，编程、解答世间万物、翻译、取标题、写摘要、写对联，你能想到的所有文字内容他都能hold住（虽然也闹了不少笑话）。
+昨天我尝试了一个非常有意思的玩法，就是让 ChatGPT 来个角色扮演，然后居然还发现了一个彩蛋，有趣是一方面，由此也可窥见 ChatGPT 之强大。
+实现过程如下：
+先让他假装成 Linux 终端
+我要你假装是一个Linux终端。我会输入命令，你回复终端应该显示什么。我希望你只用一个唯一的代码块里的终端输出回复，别的都不要。不要输出解释。除非我指示你这样做，否则不要输入命令。当我需要用中文告诉你什么时，我会用花括号{像这样}把文本放在里面。我的第一个命令是pwd。 然后居然真的可以执行，列出了当前路径
+然后用ls -R看看各目录下都有什么文件
+其实每个文件我都看了，只有./Documents/project1/data.txt 有实质内容。
+大家好奇这个txt里是什么吗？cat 命令看一眼
+“The quick brown fox jumps over the lazy dog”（中译为“敏捷的棕毛狐狸从懒狗身上跃过”）是一个著名的英语全字母句，刚好包含了从A到Z全部26个字母。
+这句话常被用于测试字体的显示效果和键盘有没有故障，现在各类浏览器的字体设定中常把该句子作为预览句。
+``./Documents/project1/`下面还有个script.py ,也来看一眼：
+可惜不能执行，因为没有pandas
+顺便看一眼python版本，挺老的
+至于figure目录下的这三种图片是什么，可能是个很大的谜了。
+对了，ChatGPT 假装成的这个Linux还有更多东西可以探索
+比如：创建文件
+比如：我把内置的python升级到了3.0
+还安装了pandas
+大家有什么发现，欢迎告诉我。
+one more thing ，那个令人闻风丧胆的命令可以执行吗？
+嗯，想多了
+Bye</description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>花了2个晚上，拿到了吴恩达@斯坦福大学的机器学习课程证书</title>
+        <link>http://mlpy.info/python/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        
+        <guid>http://mlpy.info/python/%E8%8A%B1%E4%BA%863%E6%99%9A%E6%8B%BF%E5%88%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%81%E4%B9%A6/</guid>
+        <description>大家好，我是章北海，一个总是多想的up主。
+吴恩达的经典课程《机器学习》今年7月出了新版，我花了几个晚上学完了三门课程拿到了证书
+其实挺简单的，原本不想做视频了，也怕有同学会说：这破事，up 居然也能水一期视频
+但总感觉真的开启学习然后坚持完成的同学并不多
+还是想给大家鼓鼓气，分享一下注册课程，学习技巧和一些注意事项。
+吴恩达算是我的机器学习启蒙导师了，很早之前就是看他的2012版《机器学习》，
+新版专项课程由deeplearning.ai和斯坦福大学提供
+学习这套课程不但让我重温了很多知识，也让我看到了吴恩达团队创作课程的用心，
+因为我本身也经常写技术科普文章，那种专注于核心思想，由浅入深，自下而上
+把一系列知识点串起来成为系统知识的写作手法是我一直梦寐以求的，
+而吴恩达将此手法应用的炉火纯青。这套课程真的又进化了，相信大家看完自然会和我有一样的感受。
+下面开始正题，教大家如何免费学完三门课拿到证书
+第一步就是注册，前提是你已经有了coursera账号哈
+这个机器学习专项一共分为三个课程
+你可以直接从专项课程页面订阅，其实也可以按下面的三个课程分别注册，效果其实是一样的。
+第一个课程是监督式机器学习，主要内容是分类和回归，准备录制这个视频的时候我已经注册了，所以是进入课程的状态。
+第二课是高级学习算法，主要内容是神经网络和树模型等等
+第三课是无监督学习，推荐系统，以及强化学习
+大家记得分开注册，学完一课之后再注册下一门，另补充一句，每一门都有一个证书。
+第三课完整版出来的比较晚，录制时我还没有注册，就以他为例看一下过程吧。
+可以看到正常是326元每月，这个根据汇率波动，点击订阅，这个支付页面不要担心，按我的操作来，不会扣款的。
+每门课有7天免费体验，我们注册完成后点取消就行了，亲测不会扣费。
+这里有个难点，直接支付需要绑定Visa或者万事达的银行卡，如果有的话直接支付即可。
+然后就完成了，先别着急学习，右上角点用户名，再点击我的购买
+注意看，7天后开始扣款
+我们在这里点击取消订阅，出现这个页面就说明已经取消完成
+这里直接点不就行了
+千万别忘记取消哈，不然每月会从你的卡里扣费。
+我之前在公众号推文介绍过这个方法，被读者留言批评了，感觉蛮冤枉的，
+我也是在规则内做事的，有更高道德标准还是自己遵守的好吧？
+现在我又蛮赞同这位读者了
+欢迎有钱的同学为吴恩达充值，也鼓励有币的同学给我一键三连。弘扬人间正能量，人人有责！
+话说回来，比较有钱或者确实学习进度比较慢，也可以花钱学习，每月也就300多。
+回到上面的问题，如果没有Visa和万事达的卡怎么办呢？
+我测试了一下，有一个不太稳定的方式，就是在支付页面绑定Paypal
+paypal 支持银联卡，我测试了建行卡是可以的。
+先注册、登陆Paypal，这一步就不演示了，自行探索，很简单。
+注册另一门课，在支付页面我们选择Paypal，跳转到登陆验证，然后绑定银联卡
+这一步完成之后，自动返回支付页面，这里随便填一下就行，填完点开始免费试用。
+剩下的步骤就和刚才一样了，在我的购买里，点取消订阅。
+这个方法不太稳定，我再用同样方法用Paypal注册其他课会出现无法支付的问题。
+祝大家好运了。
+学习 学习这一块没什么好说的，大家认真看视频就行了，认真=全神贯注。
+短视频时代，感觉大家很难长时间全神贯注了
+所以我才说吴恩达的这套课程非常牛逼
+7 天免费学习，不长不短，既不会太急促学不完，也不会太长演变成拖延症（毕竟人性懒惰），非常适合集中精力在一个完整的时间学完一门课并拿到证书。
+课程设计也很合理，一个大课题下会细分为多个 Course（每个都有 7 天免费期），每个 Course 细分为3-4个Week的课程，每个Week下细分多个小节，每一小节一般也都不超过10分钟
+全英语授课大家也不用担心，视频中可以调出字幕，四级水平应该就够了。
+另外，要拿到证书是要完成章节测试还有编程题的，小测试都很简单，只要你认真听就行，答案就在前面的PPT中。
+编程题，其实也不难，是在不会的地方，jupyter notebook里的markdown还有下面的提示足够让你写出代码了。
+学完就能申请证书，是电子的哈，可以下载PDF。
+最后在奉献一个小提示
+国内时常打不开Coursera的视频，有很多解决方案，我是改了hosts文件，大家可以试试。
+用记事本打开HOSTS，位置这里
+C:\Windows\System32\drivers\etc\HOSTS
+把下面内容copy进去即可，我放到指定评论区了
+99.84.199.180 d3c33hcgiwev3.cloudfront.net 54.230.96.102 d3c33hcgiwev3.cloudfront.net 54.</description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

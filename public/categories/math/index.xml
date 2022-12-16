@@ -22,11 +22,11 @@
       
       <item>
         <title>MathJax support</title>
-        <link>http://mlpy.info/posts/test-mathjax/</link>
+        <link>http://mlpy.info/aigc/test-mathjax/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
         <author>venn5708@gmail.com (Changbeihai)</author>
         <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://mlpy.info/posts/test-mathjax/</guid>
+        <guid>http://mlpy.info/aigc/test-mathjax/</guid>
         <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         
@@ -55,11 +55,11 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
       
       <item>
         <title>Katex support</title>
-        <link>http://mlpy.info/posts/test-katex/</link>
+        <link>http://mlpy.info/aigc/test-katex/</link>
         <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
         <author>venn5708@gmail.com (Changbeihai)</author>
         <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://mlpy.info/posts/test-katex/</guid>
+        <guid>http://mlpy.info/aigc/test-katex/</guid>
         <description>The following
 $$ \int_{a}^{b} x^2 dx $$
 Is an integral

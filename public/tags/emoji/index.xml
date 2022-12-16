@@ -22,11 +22,11 @@
       
       <item>
         <title>Emoji Support</title>
-        <link>http://mlpy.info/posts/emoji-support/</link>
+        <link>http://mlpy.info/aigc/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>venn5708@gmail.com (Changbeihai)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://mlpy.info/posts/emoji-support/</guid>
+        <guid>http://mlpy.info/aigc/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
