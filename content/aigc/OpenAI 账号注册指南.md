@@ -1,14 +1,14 @@
 ---
-author: "Hugo Authors"
-title: "Emoji Support"
+author: "老章mlpy"
+title: "OpenAI 账号注册指南"
 date: 2022-12-16T12:00:06+09:00
 description: "国内用户如何注册OpenAI账号"
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Kim
-authorEmoji: 👻
+author: 老章mlpy
+authorEmoji: 
 tags: 
 - AIGC
 - OpenAI

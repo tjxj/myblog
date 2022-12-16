@@ -17,10 +17,10 @@
     <loc>http://mlpy.info/tags/chatgpt/</loc>
     <lastmod>2022-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>http://mlpy.info/aigc/openai-%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97/</loc>
+    <loc>http://mlpy.info/tags/openai/</loc>
     <lastmod>2022-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>http://mlpy.info/tags/openai/</loc>
+    <loc>http://mlpy.info/aigc/openai-%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2022-12-16T12:00:06+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/aigc/</loc>
@@ -165,6 +165,9 @@
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/dl/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/talks/article/article_any_folder_name_1/</loc>

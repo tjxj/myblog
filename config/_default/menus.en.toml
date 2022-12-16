@@ -33,10 +33,16 @@
   url = "ml/codes"
 
 [[main]]
+  identifier = "深度学习"
+  name = "深度学习"
+  url = "dl"
+  weight = 5
+
+[[main]]
   identifier = "AIGC"
   name = "AIGC"
   url = "aigc"
-  weight = 5
+  weight = 7
 
 [[main]]
   identifier = "数学基础"
@@ -48,4 +54,4 @@
   identifier = "闲聊"
   name = "闲聊"
   url = "talks"
-  weight = 7
+  weight = 8
