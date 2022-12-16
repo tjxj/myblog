@@ -9,7 +9,25 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/aigc/</loc>
+    <lastmod>2022-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/chatgpt/</loc>
+    <lastmod>2022-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/aigc/openai-%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2022-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/openai/</loc>
+    <lastmod>2022-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/aigc/</loc>
+    <lastmod>2022-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://mlpy.info/tags/</loc>
+    <lastmod>2022-12-16T12:00:06+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/python/midjourney%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
@@ -38,16 +56,10 @@
     <loc>http://mlpy.info/talks/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>http://mlpy.info/aigc/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url><url>
     <loc>http://mlpy.info/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/aigc/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/math/hugo/</loc>
@@ -124,39 +136,6 @@
   </url><url>
     <loc>http://mlpy.info/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-chartjs/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-js-sequence-diagrams/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/categories/math/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-mathjax/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-katex/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://mlpy.info/aigc/test-flowchart/</loc>
-    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url><url>
     <loc>http://mlpy.info/ml/course/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>

@@ -14,11 +14,65 @@
     <managingEditor>venn5708@gmail.com (Changbeihai)</managingEditor>
     <webMaster>venn5708@gmail.com (Changbeihai)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2022 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="http://mlpy.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AIGC</title>
+        <link>http://mlpy.info/tags/aigc/</link>
+        <pubDate>Fri, 16 Dec 2022 12:00:06 +0900</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        
+        <guid>http://mlpy.info/tags/aigc/</guid>
+        <description></description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ChatGPT</title>
+        <link>http://mlpy.info/tags/chatgpt/</link>
+        <pubDate>Fri, 16 Dec 2022 12:00:06 +0900</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        
+        <guid>http://mlpy.info/tags/chatgpt/</guid>
+        <description></description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>OpenAI</title>
+        <link>http://mlpy.info/tags/openai/</link>
+        <pubDate>Fri, 16 Dec 2022 12:00:06 +0900</pubDate>
+        <author>venn5708@gmail.com (Changbeihai)</author>
+        
+        <guid>http://mlpy.info/tags/openai/</guid>
+        <description></description>
+        
+        <dc:creator>Changbeihai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>shortcode</title>
@@ -243,24 +297,6 @@
         <author>venn5708@gmail.com (Changbeihai)</author>
         
         <guid>http://mlpy.info/tags/namoji/</guid>
-        <description></description>
-        
-        <dc:creator>Changbeihai</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>http://mlpy.info/tags/diagram/</link>
-        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>venn5708@gmail.com (Changbeihai)</author>
-        
-        <guid>http://mlpy.info/tags/diagram/</guid>
         <description></description>
         
         <dc:creator>Changbeihai</dc:creator>
