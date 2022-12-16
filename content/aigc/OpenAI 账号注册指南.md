@@ -8,7 +8,7 @@ hideToc: false
 enableToc: true
 enableTocContent: false
 author: 老章mlpy
-authorEmoji: 
+authorEmoji: 👨‍💻
 tags: 
 - AIGC
 - OpenAI
