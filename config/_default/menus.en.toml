@@ -23,12 +23,12 @@
   weight = 4
     
 [[main]]
-  parent = "ml"
+  parent = "机器学习"
   name = "教程"
   url = "ml/course"
 
 [[main]]
-  parent = "ml"
+  parent = "机器学习"
   name = "实战"
   url = "ml/codes"
 
